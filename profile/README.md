@@ -8,30 +8,26 @@
 
 ---
 
-A software studio in São Paulo, Brazil. We build tailored products for
-companies and small businesses, and we stay to maintain what we deliver.
+Applied AI for B2B companies. Your company already tried AI. We make it work.
 
-We are two engineers. You talk straight to the people who write the code.
+We build tailored AI agents and automations, connected to your systems, measured in hours and money saved, and monitored in production. No hype.
 
 ## What we do
 
-| Line of work                  | What it covers                                                    |
-| ----------------------------- | ----------------------------------------------------------------- |
-| **Tailored products**         | Discovery, written scope, delivery in short cycles                 |
-| **Backend and integrations**  | APIs, queues, event driven architecture, payments                  |
-| **AI automation**             | Document classification, data extraction, onboarding and KYC       |
-| **System rescue**             | Technical audit, test coverage, gradual migration                  |
+| Line of work                  | What it covers                                                                      |
+| ----------------------------- | ----------------------------------------------------------------------------------- |
+| **AI diagnosis**              | Process map, estimated gain and cost, rollout plan, at a fixed price                |
+| **Agents and automation**     | Document reading, customer service on WhatsApp, back office flows                   |
+| **AI connected to your data** | ERP and CRM integration, search over internal documents, access control and LGPD    |
+| **AI in production**          | Continuous answer evaluation, error monitoring, cost per task, stalled pilot rescue |
 
 ## How we work
 
-**`init()`** A written scope, with what is in and what is out. Price and
-deadline agreed before we start.
+**`init()`** A diagnosis with the chosen process, the estimated gain and what is out of scope. Price and deadline agreed before we start.
 
-**`build()`** A live environment from the first week. You use what is ready
-and correct the course while it is still cheap.
+**`build()`** A pilot on your real data from the first week. You measure how often it is right and correct the course while it is still cheap.
 
-**`ship()`** Automated tests and error monitoring from day one. We find the
-failure before you do.
+**`ship()`** Automatic answer evaluation, error monitoring and cost per task. We find the failure before you do.
 
 ## What we believe
 
@@ -49,6 +45,6 @@ failure before you do.
 
 ## Talk to the team
 
-Tell us the problem. We answer with the scope, the deadline and the price.
+Tell us the process. In 30 minutes, we tell you if AI solves it, what it costs and how soon it goes live.
 
 **[simao.msjr@gmail.com](mailto:simao.msjr@gmail.com)**

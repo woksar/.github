@@ -8,30 +8,26 @@
 
 ---
 
-Estúdio de software em São Paulo. Construímos produtos sob medida para
-empresas e microempreendedores, e ficamos para manter o que entregamos.
+IA aplicada para empresas B2B. Sua empresa já testou IA. A gente coloca para funcionar.
 
-Somos dois engenheiros. Você fala direto com quem escreve o código.
+Desenvolvemos agentes e automações sob medida, integrados aos seus sistemas, medidos em horas e reais economizados e monitorados em produção. Sem hype.
 
 ## O que fazemos
 
-| Frente                   | O que entra                                                     |
-| ------------------------ | --------------------------------------------------------------- |
-| **Produto sob medida**   | Descoberta, escopo escrito, entrega em ciclos curtos             |
-| **Backend e integrações**| APIs, filas, arquitetura orientada a eventos, pagamentos          |
-| **Automação com IA**     | Classificação de documentos, extração de dados, onboarding e KYC |
-| **Resgate de sistema**   | Auditoria, cobertura de testes, migração gradual                 |
+| Frente                     | O que entra                                                                                          |
+| -------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Diagnóstico de IA**      | Mapa de processos, ganho e custo estimados, plano de implantação, com preço fechado                  |
+| **Agentes e automação**    | Leitura de documentos, atendimento no WhatsApp, fluxos de backoffice                                 |
+| **IA conectada aos dados** | Integração com ERP e CRM, busca em documentos internos, controle de acesso e LGPD                    |
+| **IA em produção**         | Avaliação contínua das respostas, monitoramento de erros, custo por tarefa, resgate de piloto parado |
 
 ## Como trabalhamos
 
-**`init()`** Escopo escrito, com o que entra e o que fica de fora. Preço e
-prazo fechados antes de começar.
+**`init()`** Diagnóstico com o processo escolhido, o ganho estimado e o que fica de fora. Preço e prazo fechados antes de começar.
 
-**`build()`** Ambiente no ar desde a primeira semana. Você usa o que já está
-pronto e corrige o rumo enquanto ainda é barato.
+**`build()`** Piloto com os seus dados reais desde a primeira semana. Você mede quanto ele acerta e corrige o rumo enquanto ainda é barato.
 
-**`ship()`** Testes automatizados e monitoramento de erros desde o primeiro
-dia. A gente descobre a falha antes de você.
+**`ship()`** Avaliação automática das respostas, monitoramento de erros e custo por tarefa. A gente descobre a falha antes de você.
 
 ## No que acreditamos
 
@@ -49,6 +45,6 @@ dia. A gente descobre a falha antes de você.
 
 ## Falar com o time
 
-Conte o problema. A gente responde com o escopo, o prazo e o preço.
+Conte o processo. Em 30 minutos, dizemos se a IA resolve, quanto custa e em quanto tempo entra no ar.
 
 **[simao.msjr@gmail.com](mailto:simao.msjr@gmail.com)**
