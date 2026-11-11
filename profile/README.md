@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Woksar" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://woksar.github.io/en/"><strong>woksar.github.io</strong></a>
 </p>
 
