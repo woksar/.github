@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Raw Code Brothers" width="100%" />
+  <img src="./assets/banner.pt-BR.png" alt="Woksar" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://rawcodebrothers.github.io/"><strong>rawcodebrothers.github.io</strong></a>
+  <a href="https://woksar.github.io/"><strong>woksar.github.io</strong></a>
 </p>
 
 <p align="center">
